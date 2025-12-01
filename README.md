@@ -24,7 +24,11 @@ Each part represents a real industry use case and can be showcased in DevOps int
 
 ## 📁 Project Structure
 
+```
 Linux_DevOps_Automation_Suite/
+│
+├── docs/
+│ └── Project_README.md
 │
 ├── First_Part/ # Security Issue Investigation
 │ ├── event_history.csv
@@ -52,6 +56,12 @@ Linux_DevOps_Automation_Suite/
 │ └── invalid_user.sh
 │
 └── README.md
+```
+
+```md
+📚 **Detailed Scenario Documentation:**  
+See full task descriptions here:  
+➡️ [docs/Project_README.md](docs/Project_README.md)
 
 ---
 
@@ -168,3 +178,4 @@ By completing this project you'll gain hands-on experience with:
 
 This repository is made for education and portfolio building.  
 Pull requests, feature suggestions, and improvements are welcome.
+```
